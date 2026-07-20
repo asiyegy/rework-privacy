@@ -13,3 +13,7 @@ Legal documents for mobile apps by Asiye.
 ## DocMind
 - [Privacy Policy](privacy.md)
 - [Terms & Conditions](terms.md)
+
+## StageShot
+- [Privacy Policy](stageshot/privacy.md)
+- [Terms & Conditions](stageshot/terms.md)
