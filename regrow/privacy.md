@@ -56,7 +56,7 @@ Before the Application can be used, an in-app consent notice describes this proc
 *   Captured photos and measurement history are stored only locally on your device; the Service Provider retains no copy after AI processing completes
 *   Delete individual measurements or all data at any time in Settings; you can also export your data from Settings
 *   Automatically collected data is retained per the third-party providers' policies
-*   To request deletion of any data, contact the Service Provider at asiygy@icloud.com
+*   To request deletion of any data, contact the Service Provider at asiyegy@icloud.com
 
 ## Security
 
@@ -74,4 +74,4 @@ This privacy policy is effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions regarding privacy, contact the Service Provider at asiygy@icloud.com.
+If you have any questions regarding privacy, contact the Service Provider at asiyegy@icloud.com.

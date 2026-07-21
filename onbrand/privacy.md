@@ -55,7 +55,7 @@ Before the Application can be used, an in-app consent notice describes this proc
 - Reference photos and generated images are stored only locally on your device; the Service Provider operates no server that retains them
 - Delete your reference photos, generated images, and all other data at any time via Settings → "Delete my data"
 - Automatically collected data is retained per the third-party providers' policies
-- To request deletion of any data, contact the Service Provider at asiygy@icloud.com
+- To request deletion of any data, contact the Service Provider at asiyegy@icloud.com
 
 ## Security
 
@@ -73,4 +73,4 @@ This privacy policy is effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions regarding privacy, contact the Service Provider at asiygy@icloud.com.
+If you have any questions regarding privacy, contact the Service Provider at asiyegy@icloud.com.

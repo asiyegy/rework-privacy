@@ -35,4 +35,4 @@ These terms of use are effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions or suggestions about the Terms of Use, please do not hesitate to contact the Service Provider at asiygy@icloud.com.
+If you have any questions or suggestions about the Terms of Use, please do not hesitate to contact the Service Provider at asiyegy@icloud.com.

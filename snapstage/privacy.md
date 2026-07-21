@@ -59,7 +59,7 @@ Before the Application can be used, an in-app notice describes this processing â
 - Room photos sent for staging are not retained by the Service Provider after processing
 - Your listings, original photos, and staged images are stored only locally on your device; delete individual listings or images at any time in the Application
 - Automatically collected data is retained per the third-party providers' policies
-- To request deletion of any data, contact the Service Provider at asiygy@icloud.com
+- To request deletion of any data, contact the Service Provider at asiyegy@icloud.com
 
 ## Security
 
@@ -81,4 +81,4 @@ This privacy policy is effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions regarding privacy, contact the Service Provider at asiygy@icloud.com.
+If you have any questions regarding privacy, contact the Service Provider at asiyegy@icloud.com.

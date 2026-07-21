@@ -55,7 +55,7 @@ Before the Application can be used, an in-app consent notice describes this proc
 - Imported documents, extracted content, chat history, and generated insights are stored only locally on your device; delete individual documents or all data at any time in Settings
 - Document content sent for AI processing is not retained by the Service Provider after processing
 - Automatically collected data is retained per the third-party providers' policies
-- To request deletion of any data, contact the Service Provider at asiygy@icloud.com
+- To request deletion of any data, contact the Service Provider at asiyegy@icloud.com
 
 ## Security
 
@@ -77,4 +77,4 @@ This privacy policy is effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions regarding privacy, contact the Service Provider at asiygy@icloud.com.
+If you have any questions regarding privacy, contact the Service Provider at asiyegy@icloud.com.
