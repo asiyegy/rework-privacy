@@ -14,9 +14,9 @@ Legal documents for mobile apps by Asiye.
 - [Privacy Policy](privacy.md)
 - [Terms & Conditions](terms.md)
 
-## StageShot
-- [Privacy Policy](stageshot/privacy.md)
-- [Terms & Conditions](stageshot/terms.md)
+## SnapStage
+- [Privacy Policy](snapstage/privacy.md)
+- [Terms & Conditions](snapstage/terms.md)
 
 ## Densio
 - [Privacy Policy](regrow/privacy.md)

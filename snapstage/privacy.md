@@ -1,10 +1,10 @@
-# Privacy Policy — StageShot
+# Privacy Policy — SnapStage
 
-This privacy policy applies to the StageShot app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the SnapStage app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
 
 ## Summary
 
-StageShot is an AI-powered virtual staging tool for real-estate professionals. To function, it sends the room photos you choose to stage to a third-party AI service provider (Google) for processing, and returns AI-generated, virtually staged versions of those photos. This policy explains what is collected, how, why, and with whom it is shared.
+SnapStage is an AI-powered virtual staging tool for real-estate professionals. To function, it sends the room photos you choose to stage to a third-party AI service provider (Google) for processing, and returns AI-generated, virtually staged versions of those photos. This policy explains what is collected, how, why, and with whom it is shared.
 
 ## Information the Application Collects, and How
 
