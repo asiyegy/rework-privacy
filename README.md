@@ -18,6 +18,6 @@ Legal documents for mobile apps by Asiye.
 - [Privacy Policy](stageshot/privacy.md)
 - [Terms & Conditions](stageshot/terms.md)
 
-## ReGrow
+## Densio
 - [Privacy Policy](regrow/privacy.md)
 - [Terms & Conditions](regrow/terms.md)

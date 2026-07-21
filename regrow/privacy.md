@@ -1,10 +1,10 @@
 # Privacy Policy
 
-This privacy policy applies to the ReGrow app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Densio app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
 
 ## Summary
 
-ReGrow is a documentation and measurement tool for tracking hair-transplant and hair-treatment progress. To generate measurements, the scalp photos you capture are sent to third-party AI service providers (Google) for automated analysis. Photos and measurement history are stored only on your device. This policy explains what is collected, how, why, and with whom it is shared.
+Densio is a documentation and measurement tool for tracking hair-transplant and hair-treatment progress. To generate measurements, the scalp photos you capture are sent to third-party AI service providers (Google) for automated analysis. Photos and measurement history are stored only on your device. This policy explains what is collected, how, why, and with whom it is shared.
 
 ## Information the Application Collects, and How
 
@@ -45,7 +45,7 @@ The Service Provider may also disclose information as required by law (for examp
 
 ## Health-Related Information
 
-Photos of your scalp and the measurements derived from them may be considered health-related information. They are processed solely to provide the service, are never sold, and are not used for advertising. ReGrow is not a medical device: its scores are for personal documentation only and are not a diagnosis, treatment, or medical advice.
+Photos of your scalp and the measurements derived from them may be considered health-related information. They are processed solely to provide the service, are never sold, and are not used for advertising. Densio is not a medical device: its scores are for personal documentation only and are not a diagnosis, treatment, or medical advice.
 
 ## Consent
 
