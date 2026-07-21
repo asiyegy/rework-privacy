@@ -57,4 +57,4 @@ These Terms are effective as of 2026-07-21
 
 ## Contact Us
 
-If you have any questions about these Terms, contact the Service Provider at asiygy@icloud.com.
+If you have any questions about these Terms, contact the Service Provider at asiyegy@icloud.com.
