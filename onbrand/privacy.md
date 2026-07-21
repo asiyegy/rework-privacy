@@ -1,10 +1,10 @@
-# Privacy Policy — OnBrand
+# Privacy Policy — BrandShot
 
-This privacy policy applies to the OnBrand app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the BrandShot app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
 
 ## Summary
 
-OnBrand is a personal-brand content tool. You upload 6–12 photos of your own face ("brand model"), and the Application generates identity-consistent professional and lifestyle brand images, captions, weekly content plans, and coaching suggestions from them. To function, it sends the photos you upload and the prompts you write to third-party AI service providers (Google) for processing. This policy explains what is collected, how, why, and with whom it is shared.
+BrandShot is a personal-brand content tool. You upload 6–12 photos of your own face ("brand model"), and the Application generates identity-consistent professional and lifestyle brand images, captions, weekly content plans, and coaching suggestions from them. To function, it sends the photos you upload and the prompts you write to third-party AI service providers (Google) for processing. This policy explains what is collected, how, why, and with whom it is shared.
 
 ## Information the Application Collects, and How
 

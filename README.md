@@ -2,7 +2,7 @@
 
 Legal documents for mobile apps by Asiye.
 
-## OnBrand
+## BrandShot
 - [Privacy Policy](onbrand/privacy.md)
 - [Terms & Conditions](onbrand/terms.md)
 
