@@ -17,3 +17,7 @@ Legal documents for mobile apps by Asiye.
 ## StageShot
 - [Privacy Policy](stageshot/privacy.md)
 - [Terms & Conditions](stageshot/terms.md)
+
+## ReGrow
+- [Privacy Policy](regrow/privacy.md)
+- [Terms & Conditions](regrow/terms.md)
