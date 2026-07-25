@@ -21,3 +21,7 @@ Legal documents for mobile apps by Asiye.
 ## Densio
 - [Privacy Policy](regrow/privacy.md)
 - [Terms & Conditions](regrow/terms.md)
+
+## LessonLab
+- [Privacy Policy](lessonlab/privacy.md)
+- [Terms & Conditions](lessonlab/terms.md)
