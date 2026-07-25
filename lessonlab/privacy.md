@@ -1,10 +1,10 @@
-# Privacy Policy — LessonLab
+# Privacy Policy — LessonSpark
 
-This privacy policy applies to the LessonLab app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the LessonSpark app ("Application") for mobile devices, created by Asiye ("Service Provider") as a freemium service. This service is intended for use "AS IS".
 
 ## Summary
 
-LessonLab is a teaching-material tool for K-12 teachers and for parents helping their own children. You describe what you need — or photograph a textbook page, a whiteboard, or a piece of student work — and the Application generates lesson plans, worksheets, reading passages, quizzes, rubrics, feedback, and messages to families. To function, it sends the text you enter and the images you attach to a third-party AI service provider (Google) for processing. This policy explains what is collected, how, why, and with whom it is shared.
+LessonSpark is a teaching-material tool for K-12 teachers and for parents helping their own children. You describe what you need — or photograph a textbook page, a whiteboard, or a piece of student work — and the Application generates lesson plans, worksheets, reading passages, quizzes, rubrics, feedback, and messages to families. To function, it sends the text you enter and the images you attach to a third-party AI service provider (Google) for processing. This policy explains what is collected, how, why, and with whom it is shared.
 
 ## Information the Application Collects, and How
 
@@ -46,7 +46,7 @@ The Service Provider may also disclose information as required by law (for examp
 
 ## Student Information
 
-LessonLab is designed for use by adults — teachers and parents — not by students, and it is not directed to children.
+LessonSpark is designed for use by adults — teachers and parents — not by students, and it is not directed to children.
 
 The Application never asks you for student records. It is built so that you can use it without sending student personal information at all, and you are asked to share as little as possible:
 
