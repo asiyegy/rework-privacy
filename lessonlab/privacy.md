@@ -20,9 +20,10 @@ LessonSpark is a teaching-material tool for K-12 teachers and for parents helpin
 - Device information (model, operating system version, language) and IP address
 - Usage data (screens visited, tools used, session duration, time and date)
 - Crash and diagnostic data
-- Advertising-related identifiers, only if you grant App Tracking Transparency permission
 
 **3. Purchase data:** subscription status and transaction identifiers. Card details never reach the Service Provider.
+
+**Not collected:** the Application does not use the Advertising Identifier (IDFA), does not ask for App Tracking Transparency permission, and does not track you across other companies' apps or websites. There is no advertising in the Application.
 
 ## How the Information Is Used
 
@@ -30,7 +31,6 @@ LessonSpark is a teaching-material tool for K-12 teachers and for parents helpin
 - To pre-fill tools with the grade level and subject of the class you selected
 - To operate, maintain, and improve the Application (analytics, crash diagnostics)
 - To manage subscriptions and the free-trial entitlement
-- To measure advertising effectiveness (only with your App Tracking Transparency consent)
 - The Service Provider may use contact information you provide to send important notices
 
 ## Third Parties That Process Data
@@ -40,7 +40,6 @@ The Application shares data with the following processors, strictly to provide t
 - [Google LLC](https://firebase.google.com/support/privacy) — Gemini AI models via Firebase AI Logic process your text inputs, attached images, and assistant messages (including voice audio in the voice assistant) to generate material. Your content is not used to train these models. Google also provides Firebase Analytics, Crashlytics, Remote Config, App Check, and Cloud Messaging for app operation.
 - [RevenueCat](https://www.revenuecat.com/privacy) — subscription management
 - Apple — payment processing through the App Store
-- [Meta Platforms](https://www.facebook.com/privacy/policy) — advertising measurement, only with App Tracking Transparency consent
 
 The Service Provider may also disclose information as required by law (for example, to comply with a subpoena), to protect rights or safety, to investigate fraud, or to respond to a government request.
 
