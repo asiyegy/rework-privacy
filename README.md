@@ -22,6 +22,6 @@ Legal documents for mobile apps by Asiye.
 - [Privacy Policy](regrow/privacy.md)
 - [Terms & Conditions](regrow/terms.md)
 
-## LessonLab
+## LessonSpark
 - [Privacy Policy](lessonlab/privacy.md)
 - [Terms & Conditions](lessonlab/terms.md)
